@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <!-- Outer ledger frame -->
+  <rect x="108" y="100" width="296" height="312" rx="28" fill="none" stroke="#F8FAFC" stroke-width="22"/>
+  <!-- Ledger spine accent -->
+  <line x1="168" y1="100" x2="168" y2="412" stroke="#334155" stroke-width="14"/>
+  <!-- Balance columns T-mark -->
+  <line x1="204" y1="196" x2="366" y2="196" stroke="#F8FAFC" stroke-width="20" stroke-linecap="round"/>
+  <line x1="285" y1="196" x2="285" y2="334" stroke="#F8FAFC" stroke-width="20" stroke-linecap="round"/>
+  <!-- Debit / Credit bars -->
+  <line x1="212" y1="248" x2="256" y2="248" stroke="#94A3B8" stroke-width="16" stroke-linecap="round"/>
+  <line x1="212" y1="292" x2="244" y2="292" stroke="#94A3B8" stroke-width="16" stroke-linecap="round"/>
+  <line x1="314" y1="248" x2="358" y2="248" stroke="#94A3B8" stroke-width="16" stroke-linecap="round"/>
+  <!-- Squared double underline emerald accent -->
+  <line x1="204" y1="364" x2="366" y2="364" stroke="#10B981" stroke-width="18" stroke-linecap="round"/>
+</svg>
